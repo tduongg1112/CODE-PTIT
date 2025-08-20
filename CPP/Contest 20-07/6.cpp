@@ -1,4 +1,4 @@
-//Tổng chia dư cho K
+// Tổng chia dư cho K
 
 #include <bits/stdc++.h>
 using namespace std;

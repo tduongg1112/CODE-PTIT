@@ -1,4 +1,4 @@
-//Rút gọn số
+// Rút gọn số
 
 #include <bits/stdc++.h>
 using namespace std;

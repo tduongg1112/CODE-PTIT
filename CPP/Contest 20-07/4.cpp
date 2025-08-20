@@ -1,4 +1,4 @@
-//Phân tích thừa số nguyên tố
+// Phân tích thừa số nguyên tố
 
 #include <bits/stdc++.h>
 using namespace std;

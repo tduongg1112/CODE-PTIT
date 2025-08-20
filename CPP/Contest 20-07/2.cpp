@@ -1,4 +1,4 @@
-//M,N,A,B đếm các số trong [M,N] chia hết cho A,B
+// M,N,A,B đếm các số trong [M,N] chia hết cho A,B
 
 #include <bits/stdc++.h>
 using namespace std;

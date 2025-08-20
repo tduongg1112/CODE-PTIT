@@ -1,7 +1,4 @@
-#include <iostream>
-#include <sstream>
-#include <vector>
-#include <algorithm>
+#include <bits/stdc++.h>
 using namespace std;
 
 // Hàm chuẩn hóa từ: chữ cái đầu viết hoa, còn lại thường

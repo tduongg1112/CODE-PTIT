@@ -1,4 +1,4 @@
-//Số thuận nghịch
+// Số thuận nghịch
 
 #include <bits/stdc++.h>
 using namespace std;
