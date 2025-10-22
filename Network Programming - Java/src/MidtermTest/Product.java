@@ -1,4 +1,4 @@
-package UDP;
+package MidtermTest;
 
 import java.io.*;
 
