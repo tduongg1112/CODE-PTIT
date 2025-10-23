@@ -1,4 +1,4 @@
-//  Find ThirdMax
+//  Tìm số lớn nhất thứ k
 
 package MidtermTest;
 

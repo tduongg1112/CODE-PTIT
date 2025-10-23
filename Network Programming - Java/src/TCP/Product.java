@@ -1,4 +1,4 @@
-package MidtermTest;
+package TCP;
 
 import java.io.*;
 
