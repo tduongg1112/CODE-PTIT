@@ -1,3 +1,5 @@
+//  Tính tổng các số nguyên tố trong dãy
+
 package TCP;
 
 import java.io.*;

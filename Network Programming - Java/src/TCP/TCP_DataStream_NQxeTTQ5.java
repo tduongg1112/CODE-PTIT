@@ -1,3 +1,5 @@
+//  Tính số lần đổi chiều và tổng độ biến thiên của dãy
+
 package TCP;
 
 import java.io.*;

@@ -1,3 +1,5 @@
+//  Tìm vị trí có độ lệch tổng trái phải nhỏ nhất
+
 package TCP;
 
 import java.io.*;

@@ -1,3 +1,5 @@
+//  Tìm hai số có tổng gần gấp đôi giá trị trung bình
+
 package TCP;
 
 import java.io.*;
@@ -69,7 +71,7 @@ public class TCP_ByteStream_o1Tukrnn {
 
 //d. Đóng kết nối và kết thúc chương trình.  
         socket.close();
-        } catch (IOException e){
+        } catch (Exception e){
             e.printStackTrace();
         }
     }

@@ -1,3 +1,5 @@
+//  Tổng, tích của Big Integer
+
 package TCP;
 
 import java.io.*;

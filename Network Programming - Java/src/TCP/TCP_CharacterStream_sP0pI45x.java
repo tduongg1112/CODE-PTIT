@@ -1,3 +1,5 @@
+//  Đảo ngược từ và mã hóa RLE
+
 package TCP;
 
 import java.io.*;

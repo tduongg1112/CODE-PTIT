@@ -1,3 +1,5 @@
+//  Chuẩn hóa viết hoa chữ cái đầu mỗi từ
+
 package MidtermTest;
 
 import java.net.*;

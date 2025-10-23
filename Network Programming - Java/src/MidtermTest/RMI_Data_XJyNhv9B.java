@@ -1,3 +1,5 @@
+//  Find ThirdMax
+
 package MidtermTest;
 
 import RMI.DataService;

@@ -1,3 +1,5 @@
+//  Đếm tần suất ký tự 
+
 package RMI;
 
 import java.rmi.*;

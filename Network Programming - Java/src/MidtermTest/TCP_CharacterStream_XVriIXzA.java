@@ -1,3 +1,5 @@
+//  Đếm ký tự và chữ số xuất hiện nhiều hơn 1 lần
+
 package MidtermTest;
 
 import java.net.*;

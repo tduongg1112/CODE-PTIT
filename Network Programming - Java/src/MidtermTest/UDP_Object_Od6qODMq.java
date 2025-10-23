@@ -22,7 +22,7 @@ public class UDP_Object_Od6qODMq {
         return res;
     }
     
-    public static void main(String[] args) {
+    public static void main(String[] args){
         String host = "203.162.10.109";
         int port = 2209;
         String message = ";B22DCVT114;Od6qODMq";

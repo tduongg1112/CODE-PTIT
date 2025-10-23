@@ -1,3 +1,5 @@
+//  Tính tổng các số nguyên trong chuỗi
+
 package TCP;
 
 import java.io.*;

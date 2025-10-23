@@ -1,3 +1,5 @@
+//  Lọc các tên miền có đuôi ".edu"
+
 package TCP;
 
 import java.io.*;
