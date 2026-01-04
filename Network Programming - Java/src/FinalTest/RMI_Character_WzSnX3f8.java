@@ -17,7 +17,6 @@ public class RMI_Character_WzSnX3f8 {
         
         StringBuilder sb = new StringBuilder();
         sb.append("{");
-        
         for (Map.Entry<Character, Integer> entry : map.entrySet()){
             sb.append("\"");
             sb.append(entry.getKey());

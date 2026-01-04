@@ -1,3 +1,5 @@
+// Ghép mảng chẵn lẻ
+
 package FinalTest;
 
 import RMI.ByteService;

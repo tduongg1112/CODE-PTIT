@@ -1,3 +1,5 @@
+// Binary to Hexa
+
 package FinalTest;
 
 import RMI.ByteService;
@@ -17,6 +19,12 @@ public class RMI_Byte_7bAHD6Pj {
             byte [] data = service.requestData(sCode, qCode);
             System.out.println("Received: " + Arrays.toString(data));
             
+            String hex = new String();
+            for (byte x : data){
+                hex += Integer.toHexString(x);
+            }
+            
+            service.submitData(sCode, qCode, hex.getBytes());
             
         } catch (Exception e) {
             e.printStackTrace();
