@@ -1,3 +1,5 @@
+// Đếm tần suất
+
 package FinalTest;
 
 import RMI.CharacterService;

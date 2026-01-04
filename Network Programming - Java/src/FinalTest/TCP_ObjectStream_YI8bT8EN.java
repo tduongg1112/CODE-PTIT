@@ -49,7 +49,6 @@ public class TCP_ObjectStream_YI8bT8EN {
             socket.setSoTimeout(5000);
             
             ObjectOutputStream oos = new ObjectOutputStream(socket.getOutputStream());
-            oos.flush();
             ObjectInputStream ois = new ObjectInputStream(socket.getInputStream());            
             oos.writeObject(message);
             oos.flush();
