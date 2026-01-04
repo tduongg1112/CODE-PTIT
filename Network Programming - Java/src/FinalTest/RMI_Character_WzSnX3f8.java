@@ -1,3 +1,5 @@
+// Đếm tần suất xuất hiện ký tự trong chuỗi
+
 package FinalTest;
 
 import RMI.CharacterService;
